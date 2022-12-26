@@ -1,1 +1,11 @@
-# scraping-preco-produto
+## Objetivo do script:
+- Fazer uma raspagem de dados coletando informações relevantes dos produtos como: nome do produto e preço
+- Após a raspagem verificar quais produtos estão abaixo do preço x e enviar todos os dados obtidos por email.
+
+## Para que o script funcione perfeitamente faça:
+- Linha 09: na variavel URL Forneça um endereço de URL valido para raspagem. 
+- Linha 20: passe a tag do nome do produto e sua classe.
+- Linha 23: passe a tag do preço do produto e sua classe.
+- Linha 38: Informe o remetente
+- Linha 39: Informe o destinatario
+- Linha 40: Informe a senha
